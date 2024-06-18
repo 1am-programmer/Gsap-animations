@@ -11,7 +11,7 @@ const GsapTo = () => {
       yoyo: true, //Making the animation reverse
       rotation: 360,
       duration: 2,
-      ease: "bounce.inOut", //Howtheanimationhappens
+      ease: "bounce.inOut", //How the animation happens
     });
   }, []);
 
