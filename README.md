@@ -4,7 +4,7 @@ Welcome to the GSAP Animations for Beginners repository! This project aims to gu
 
 ## What's Included:
 
-1. **Introduction to GSAP**: Understand what GSAP is and why it's a preferred choice for animations.
+1. **Introduction to GSAP**: Understand what GSAP is and why it's a preferred choice for animations.(Link to documentations included)
    
 2. **Basic Animation Techniques**: Learn how to animate elements, manipulate timelines, and create smooth transitions.
 
@@ -18,8 +18,8 @@ Welcome to the GSAP Animations for Beginners repository! This project aims to gu
 
 To get started with GSAP animations:
 
-- Clone the repository 
-- Navigate to the project directory and open it in your preferred code editor.
+- Clone the repository `https://github.com/1am-programmer/Gsap-animations.git`
+- Navigate to the project directory  (gsap-cc-starter)  and open it in your preferred code editor.
 - Follow the README instructions and explore the provided examples to start animating with GSAP.
 
 ## Contributing:
