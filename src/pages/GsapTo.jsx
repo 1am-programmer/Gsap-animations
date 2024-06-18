@@ -1,5 +1,19 @@
+import { useGSAP } from "@gsap/react";
+import gsap from "gsap";
+
 const GsapTo = () => {
   // TODO: Implement the gsap.to() method
+  useGSAP(() => {
+    //Takes the target(in our case the ID) and the variables you want to anaimate
+    gsap.to("#blue-box", {
+      x: 250, // Animates from 0 to 250px
+      repeat: -1,
+      yoyo: true, //Making the animation reverse
+      rotation: 360,
+      duration: 2,
+      ease: "bounce.inOut", //Howtheanimationhappens
+    });
+  }, []);
 
   return (
     <main>
